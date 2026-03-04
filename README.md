@@ -178,8 +178,7 @@ We are not responsible for legal outcomes.
 ## 📧 Contact
 
 - **Project Lead:** Ernesto Rodriguez (EAJRD)
-- **Email:** contact@entertainmentcontracts.ai
-- **Twitter:** [@EntContractsAI](https://twitter.com/EntContractsAI)
+- **Instagram:** [@Ernesto_aj_dietsch](https://www.instagram.com/ernesto_aj_dietsch/)
 
 ---
 
