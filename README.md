@@ -117,6 +117,25 @@ npm install
 npm run dev
 ```
 
+### 🔑 Claude API Setup (Optional - BYOK)
+
+This app uses **Bring Your Own Key (BYOK)** - you need your own Claude API key for AI-powered contracts.
+
+**Without an API key:** The app uses pre-built templates (still useful!)  
+**With an API key:** Get personalized, AI-generated contracts
+
+#### How to get your Claude API key:
+
+1. Go to [console.anthropic.com/settings/keys](https://console.anthropic.com/settings/keys)
+2. Sign up for an account (free tier available)
+3. Create a new API key
+4. In the app, click **⚙️ Settings** and paste your key
+5. Your key is stored **locally in your browser** - it's never sent to our servers
+
+**Pricing:** Claude API is pay-as-you-go (~$0.05 per contract generation with Claude 3.5 Sonnet)
+
+> **Note:** API key is optional! The app works with templates if you don't add one.
+
 ---
 
 ## 🗺️ Roadmap
