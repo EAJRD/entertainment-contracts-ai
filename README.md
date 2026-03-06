@@ -140,23 +140,23 @@ This app uses **Bring Your Own Key (BYOK)** - you need your own Claude API key f
 
 ## 🗺️ Roadmap
 
-### Phase 1: MVP (Month 1-2)
+### Phase 1: MVP 
 - [x] Landing page
 - [ ] 5 core contract types
 - [ ] Basic PDF generation
 - [ ] Claude integration
 
-### Phase 2: Review Engine (Month 3-4)
+### Phase 2: Review Engine 
 - [ ] Contract upload & parsing
 - [ ] Fairness scoring algorithm
 - [ ] Red flag detection
 - [ ] Comparison to industry standards
 
-### Phase 3: Expansion (Month 5-6)
+### Phase 3: Expansion 
 - [ ] Multi-language support (ES/PT)
 - [ ] Community template library
 - [ ] API for third-party integrations
-- [ ] Mobile app
+- [ ] Web Mobile app
 
 ---
 
@@ -180,7 +180,6 @@ MIT License - See [LICENSE](LICENSE)
 
 ## 🙏 Acknowledgments
 
-- **Anthropic** for Claude API access (applying for OSS program)
 - **Legal templates** adapted from public domain sources
 - **Community contributors** (see [CONTRIBUTORS.md](CONTRIBUTORS.md))
 
