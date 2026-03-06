@@ -144,7 +144,7 @@ This app uses **Bring Your Own Key (BYOK)** - you need your own Claude API key f
 - [x] Landing page
 - [ ] 5 core contract types
 - [ ] Basic PDF generation
-- [ ] Claude integration
+- [x] Claude integration
 
 ### Phase 2: Review Engine 
 - [ ] Contract upload & parsing
